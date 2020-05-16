@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/basic-todo/static/css/main.bf5267d2.chunk.css",
+    "main.js": "/basic-todo/static/js/main.cfedb5c0.chunk.js",
+    "main.js.map": "/basic-todo/static/js/main.cfedb5c0.chunk.js.map",
+    "runtime-main.js": "/basic-todo/static/js/runtime-main.f6ab6f4e.js",
+    "runtime-main.js.map": "/basic-todo/static/js/runtime-main.f6ab6f4e.js.map",
+    "static/js/2.cb1a2242.chunk.js": "/basic-todo/static/js/2.cb1a2242.chunk.js",
+    "static/js/2.cb1a2242.chunk.js.map": "/basic-todo/static/js/2.cb1a2242.chunk.js.map",
+    "index.html": "/basic-todo/index.html",
+    "precache-manifest.7a5bd7970c0a7b61746fa769e8daa9fb.js": "/basic-todo/precache-manifest.7a5bd7970c0a7b61746fa769e8daa9fb.js",
+    "service-worker.js": "/basic-todo/service-worker.js",
+    "static/css/main.bf5267d2.chunk.css.map": "/basic-todo/static/css/main.bf5267d2.chunk.css.map",
+    "static/js/2.cb1a2242.chunk.js.LICENSE.txt": "/basic-todo/static/js/2.cb1a2242.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/basic-todo/static/media/texture.c8719ec6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6ab6f4e.js",
+    "static/js/2.cb1a2242.chunk.js",
+    "static/css/main.bf5267d2.chunk.css",
+    "static/js/main.cfedb5c0.chunk.js"
+  ]
+}
